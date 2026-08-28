@@ -28,11 +28,11 @@ Caso de Service Design y Design Thinking para simplificar la solicitud y aprobac
 
 [Ver caso de estudio completo →](case-studies/modulo-4-viaticos-flow/README.md)
 
-### Módulo 5 — Agile Delivery Suite: Gestin agil del trabajo
+### Módulo 5 — Agile Delivery Suite: Gestión ágil del trabajo
 
-Propuesta de una plataforma interna para Tech4You que combina Scrum para el desarrollo y Kanban para soporte, utilizando Jira como herramienta central. El caso demuestra la aplicacin de backlog, historias de usuario, estimacin, Sprint, mtricas, lmites WIP, Definition of Done y mejora continua.
+Propuesta de una plataforma interna para Tech4You que combina Scrum para el desarrollo y Kanban para soporte, utilizando Jira como herramienta central. El caso demuestra la aplicación de backlog, historias de usuario, estimación, Sprint, métricas, límites WIP, Definition of Done y mejora continua.
 
-**Competencias aplicadas:** Scrum, Kanban, Jira, gestin de backlog, priorizaron, Story Points, Velocity, Lead Time, Cycle Time, CFD y mejora continua.
+**Competencias aplicadas:** Scrum, Kanban, Jira, gestión de backlog, priorización, Story Points, Velocity, Lead Time, Cycle Time, CFD y mejora continua.
 
 [Ver caso de estudio completo →](case-studies/modulo-5-agile-delivery-suite/README.md)
 
