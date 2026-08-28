@@ -46,12 +46,12 @@ Propuesta de narrativa basada en datos para Business Intelligence, orientada a t
 
 ### Módulo 7 — AulaConecta: Agile Inception para producto EdTech
 
-Diseo y alineamiento inicial de una plataforma educativa digital que centraliza y recomienda recursos personalizados para estudiantes de enseanza media. El caso aplica Agile Inception, Inception Deck, User Story Mapping, Empathy Map, Impact Mapping, definicin de MVP, identificacin de riesgos y planificacin colaborativa.
+Diseño y alineamiento inicial de una plataforma educativa digital que centraliza y recomienda recursos personalizados para estudiantes de enseñanza media. El caso aplica Agile Inception, Inception Deck, User Story Mapping, Empathy Map, Impact Mapping, definicin de MVP, identificación de riesgos y planificación colaborativa.
 
-**Competencias aplicadas:** visin de producto, Agile Inception, facilitacin, alineamiento de stakeholders, definicin de MVP, priorizacin, User Story Mapping, Empathy Map, Impact Mapping y planificacin gil.
+**Competencias aplicadas:** visión de producto, Agile Inception, facilitación, alineamiento de stakeholders, definición de MVP, priorización, User Story Mapping, Empathy Map, Impact Mapping y planificación ágil.
 
 [Ver caso de estudio completo →](case-studies/modulo-7-aulaconecta/README.md)
 
 ## Prximamente
 
-Este portafolio se actualizar con nuevos casos y proyectos a medida que avance la certificacin y la experiencia profesional.
+Este portafolio se actualizará con nuevos casos y proyectos a medida que avance la certificación y la experiencia profesional.
