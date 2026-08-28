@@ -16,13 +16,13 @@ Se propone un flujo ágil integrado que use:
 - **Kanban** para soporte, incidencias y pequeñas solicitudes, con tablero visible, límites WIP y mtricas de flujo.
 - **Jira** como plataforma central para gestionar proyectos Scrum y Kanban, configurar tableros, automatizaciones y dashboards.
 
-## Metodologas ágiles
+## Metodologías ágiles
 
 ### Los 4 valores del Manifiesto Ágil
 
 1. Individuos e interacciones sobre procesos y herramientas.
 2. Software funcionando sobre documentación extensiva.
-3. Colaboracin con el cliente sobre negociacin contractual.
+3. Colaboración con el cliente sobre negociación contractual.
 4. Respuesta ante el cambio sobre seguir un plan.
 
 ### Los 12 principios del Manifiesto Ágil
@@ -32,46 +32,46 @@ Se propone un flujo ágil integrado que use:
 3. Entregar software funcionando con frecuencia.
 4. Trabajar en conjunto con negocio y desarrollo a diario.
 5. Construir proyectos alrededor de personas motivadas.
-6. Favorecer la comunicacin cara a cara.
+6. Favorecer la comunicación cara a cara.
 7. El software funcionando es la principal medida de progreso.
 8. Mantener un ritmo sostenible.
-9. Atender a la excelencia tcnica y el buen diseo.
+9. Atender a la excelencia técnica y el buen diseño.
 10. Simplicidad: maximizar el trabajo no realizado.
 11. Las mejores soluciones surgen de equipos autoorganizados.
 12. Reflexionar regularmente para mejorar la forma de trabajo.
 
 ### Agile vs. Cascada
 
-| Dimensin | Ágil | Cascada |
+| Dimensión | Ágil | Cascada |
 |---|---|---|
-| Planificacin | Iterativa y adaptable | Extensa y fija al inicio |
+| Planificación | Iterativa y adaptable | Extensa y fija al inicio |
 | Entregas | Incrementales y frecuentes | Una sola entrega al final |
 | Cambios | Bienvenidos y esperados | Costosos y tardos |
 | Cliente | Participa de forma continua | Participa solo al inicio y al final |
-| Documentacin | Ligera y til | Exhaustiva y contractual |
-| Medirin del xito | Valor entregado y satisfaccin | Cumplimiento del plan y presupuesto |
+| Documentación | Ligera y útil | Exhaustiva y contractual |
+| Medición del éxito | Valor entregado y satisfacción | Cumplimiento del plan y presupuesto |
 
 ### Riesgos que mitiga Ágil
 
 - Reduce el riesgo de construir algo que no responda a la necesidad real del usuario, porque permite validar temprano.
-- Disminuye el riesgo de detectar errores demasiado tarde, gracias a entregas frecuentes, inspeccin y adaptacin.
+- Disminuye el riesgo de detectar errores demasiado tarde, gracias a entregas frecuentes, inspección y adaptación.
 
 ## Kanban
 
-Kanban se usa para gestionar soporte, incidencias y pequeñas solicitudes del área de innovacin.
+Kanban se usa para gestionar soporte, incidencias y pequeñas solicitudes del área de innovación.
 
 ### Tablero Kanban propuesto
 
-| Pendiente | En progreso | Revisin | Hecho |
+| Pendiente | En progreso | Revisión | Hecho |
 |---|---|---|---|
-| Solicitud nueva | Desarrollo activo | Validacin / QA | Entregado |
-| Prioridad definida | Trabajo en curso | Aprobacin tcnica | Completado |
+| Solicitud nueva | Desarrollo activo | Validación / QA | Entregado |
+| Prioridad definida | Trabajo en curso | Aprobación técnica | Completado |
 
 ### Límites WIP
 
-- **Pendiente:** sin lmite, porque solo refleja entrada de trabajo.
-- **En progreso:** máximo 2 tarjetas, para evitar multitarea y acumulacin.
-- **Revisin:** máximo 1 tarjeta, porque suele ser un cuello de botella.
+- **Pendiente:** sin límite, porque solo refleja entrada de trabajo.
+- **En progreso:** máximo 2 tarjetas, para evitar multitarea y acumulación.
+- **Revisión:** máximo 1 tarjeta, porque suele ser un cuello de botella.
 - **Hecho:** sin lmite.
 
 ### Justificacin de los lmites
@@ -113,9 +113,9 @@ Scrum se usa para el desarrollo de la funcionalidad principal de Agile Delivery 
 | 5 | PBI-05 | Como usuario, quiero comentar una solicitud para agregar informacin, resolver dudas y mantener trazabilidad de la conversacin. | 2 SP |
 | 6 | PBI-06 | Como usuario, quiero filtrar solicitudes por estado para encontrar rápidamente las que están pendientes, en progreso o finalizadas. | 3 SP |
 | 7 | PBI-07 | Como usuario, quiero recibir notificaciones de cambios para mantenerme informado sobre avances, actualizaciones y cierres. | 3 SP |
-| 8 | PBI-08 | Como usuario, quiero cerrar una solicitud completada para confirmar su finalizacin y mantener actualizado el flujo de trabajo. | 2 SP |
-| 9 | PBI-09 | Como usuario, quiero ver un resumen de mtricas para evaluar el desempeo del flujo y apoyar la mejora continua. | 5 SP |
-| 10 | PBI-10 | Como usuario, quiero exportar solicitudes a CSV para analizar la informacin fuera de la plataforma y compartir reportes. | 3 SP |
+| 8 | PBI-08 | Como usuario, quiero cerrar una solicitud completada para confirmar su finalización y mantener actualizado el flujo de trabajo. | 2 SP |
+| 9 | PBI-09 | Como usuario, quiero ver un resumen de métricas para evaluar el desempeño del flujo y apoyar la mejora continua. | 5 SP |
+| 10 | PBI-10 | Como usuario, quiero exportar solicitudes a CSV para analizar la información fuera de la plataforma y compartir reportes. | 3 SP |
 
 ### Meta del Sprint
 
@@ -142,7 +142,7 @@ Para el Sprint de dos semanas, se seleccionan estos elementos:
 
 ### Velocity al cierre
 
-Si el Sprint planificó¹¹¹ 18 SP y se completaron 15 SP, la velocity sera **15 SP**. Si el equipo normalmente entrega entre 15 y 18 SP, esta variabilidad puede deberse a historias más complejas o bloqueos no previstos.
+Si el Sprint planificó 18 SP y se completaron 15 SP, la velocity sera **15 SP**. Si el equipo normalmente entrega entre 15 y 18 SP, esta variabilidad puede deberse a historias más complejas o bloqueos no previstos.
 
 ## Jira
 
@@ -166,14 +166,14 @@ Se crea un proyecto Kanban para soporte y tareas continuas. Allí se usa:
 - Control Chart.
 - Lead Time y Cycle Time.
 
-### Automatizacin básica
+### Automatización básica
 
 Regla propuesta:
 
 - Cuando se cree una rama en Bitbucket, mover automáticamente el issue a **In Progress**.
 - Cuando se fusione un pull request, mover el issue a **Done**.
 
-Esta automatizacin reduce errores manuales y mantiene actualizado el estado real del trabajo.
+Esta automatización reduce errores manuales y mantiene actualizado el estado real del trabajo.
 
 ### Dashboard para stakeholders
 
@@ -185,17 +185,17 @@ El dashboard puede incluir:
 - Pie Chart por tipo de issue.
 - Issues asignados al usuario.
 
-## Mtricas
+## Métricas
 
-Las mtricas ayudan a inspeccionar el desempeo y a tomar decisiones basadas en datos.
+Las métricas ayudan a inspeccionar el desempeño y a tomar decisiones basadas en datos.
 
 ### Velocity
 
-Permite estimar la capacidad del equipo por Sprint, aunque no debe usarse como promesa exacta porque vara segn complejidad y bloqueos.
+Permite estimar la capacidad del equipo por Sprint, aunque no debe usarse como promesa exacta porque vara según complejidad y bloqueos.
 
 ### Burndown
 
-Muestra el trabajo pendiente versus el tiempo y ayuda a detectar cadas tardas o scope creep.
+Muestra el trabajo pendiente versus el tiempo y ayuda a detectar caídas tardías o scope creep.
 
 ### Lead Time y Cycle Time
 
@@ -204,38 +204,38 @@ Muestra el trabajo pendiente versus el tiempo y ayuda a detectar cadas tardas o 
 
 ### CFD
 
-El Cumulative Flow Diagram permite detectar acumulacin de trabajo y cuellos de botella, especialmente cuando la banda de "In Progress" se ensancha.
+El Cumulative Flow Diagram permite detectar acumulación de trabajo y cuellos de botella, especialmente cuando la banda de "In Progress" se ensancha.
 
-## Definition of Done y polticas WIP
+## Definition of Done y políticas WIP
 
 ### Definition of Done
 
 Una historia se considera terminada solo si:
 
 - El código fue revisado.
-- Pasó¹¹¹ las pruebas.
-- Tiene documentacin mnima.
-- Cumple criterios de aceptacin.
+- Pasó las pruebas.
+- Tiene documentación mínima.
+- Cumple criterios de aceptación.
 - Está lista para desplegarse.
 
-### Poltica WIP
+### Política WIP
 
 - Limitar **En progreso** a 2 tarjetas.
-- Limitar **Revisin** a 1 tarjeta.
+- Limitar **Revisión** a 1 tarjeta.
 - No iniciar trabajo nuevo si hay bloqueos visibles.
 
 ## Mi aporte como Product Owner
 
-- Definí¹¹ un flujo ágil integrado que combina Scrum y Kanban según el tipo de trabajo.
-- Prioricé¹¹ un Product Backlog con historias de usuario claras y estimadas en Story Points.
-- Definí¹¹ una meta de Sprint y seleccioné¹¹ un Sprint Backlog realista.
-- Establecí¹¹ Definition of Done y polticas WIP para mejorar calidad y flujo.
-- Diseñ¹¹² un tablero Kanban con límites WIP y mtricas de flujo.
+- Definí un flujo ágil integrado que combina Scrum y Kanban según el tipo de trabajo.
+- Prioricé un Product Backlog con historias de usuario claras y estimadas en Story Points.
+- Definí una meta de Sprint y seleccioné un Sprint Backlog realista.
+- Establecí Definition of Done y políticas WIP para mejorar calidad y flujo.
+- Diseñé un tablero Kanban con límites WIP y métricas de flujo.
 - Propuse automatizaciones y un dashboard en Jira para visibilidad y trazabilidad.
-- Usé¹¹ mtricas (Velocity, Burndown, Lead Time, Cycle Time, CFD) para inspeccionar y adaptar.
+- Usé métricas (Velocity, Burndown, Lead Time, Cycle Time, CFD) para inspeccionar y adaptar.
 
 ## Aprendizajes
 
-Este proyecto demostró¹¹¹ que Scrum y Kanban no se excluyen, sino que se complementan. Scrum sirve para organizar el desarrollo en ciclos cortos con objetivos claros, mientras Kanban ayuda a sostener el flujo continuo y controlar los bloqueos.
+Este proyecto demostró que Scrum y Kanban no se excluyen, sino que se complementan. Scrum sirve para organizar el desarrollo en ciclos cortos con objetivos claros, mientras Kanban ayuda a sostener el flujo continuo y controlar los bloqueos.
 
-Tambin aprendí¹¹ que Jira permite traducir la teora ágil en un sistema visible y medible, con tableros, automatizaciones y mtricas útiles para la gestin diaria. La clave no está solo en usar herramientas, sino en sostener una cultura de transparencia, inspeccin y adaptacin.
+También aprendí que Jira permite traducir la teoría ágil en un sistema visible y medible, con tableros, automatizaciones y métricas útiles para la gestión diaria. La clave no está solo en usar herramientas, sino en sostener una cultura de transparencia, inspección y adaptación.
