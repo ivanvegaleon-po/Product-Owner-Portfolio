@@ -6,6 +6,12 @@ SnackXpress es una propuesta Lean Startup de microclases virtuales para aprender
 
 La propuesta ofrece recetas prácticas que pueden prepararse en menos de 15 minutos mediante clases breves y una guía sencilla.
 
+## Vista del MVP
+
+![Vista del MVP de SnackXpress](SnackXpress_MVP_Ivan_Vega.jpg)
+
+El MVP presenta una landing page para explicar la propuesta de valor, mostrar los beneficios de las microclases y capturar interés mediante un formulario. Esta versión permite validar la demanda antes de desarrollar una plataforma completa.
+
 ## Problema
 
 Muchas personas quieren comer de forma más saludable, pero tienen poco tiempo y no cuentan con ideas rápidas para preparar snacks en su día a día.
