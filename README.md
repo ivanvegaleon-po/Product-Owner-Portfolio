@@ -20,6 +20,14 @@ Propuesta Lean Startup de microclases virtuales para preparar snacks saludables 
 
 [Ver caso de estudio completo →](case-studies/modulo-3-snackxpress/README.md)
 
+### Módulo 4 — Viáticos Flow: Rediseño de viáticos corporativos
+
+Caso de Service Design y Design Thinking para simplificar la solicitud y aprobación de viáticos. La propuesta reemplaza planillas y correos dispersos por un flujo digital claro, trazable y orientado a reducir errores e incertidumbre.
+
+**Competencias aplicadas:** Service Blueprint, investigación de usuarios, mapa de empatía, definición de problema, ideación, matriz impacto-esfuerzo, prototipado, pruebas de usabilidad e iteración basada en feedback.
+
+[Ver caso de estudio completo →](case-studies/modulo-4-viaticos-flow/README.md)
+
 ## Próximamente
 
-Este portafolio se actualizará con los casos de estudio correspondientes a los módulos 4 al 7 de la certificación.
+Este portafolio se actualizará con los casos de estudio correspondientes a los módulos 5 al 7 de la certificación.
