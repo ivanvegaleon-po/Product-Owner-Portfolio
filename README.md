@@ -38,9 +38,9 @@ Propuesta de una plataforma interna para Tech4You que combina Scrum para el desa
 
 ### Módulo 6 — Agile Delivery Suite: Narrativa basada en datos
 
-Propuesta de narrativa basada en datos para Business Intelligence, orientada a transformar dashboards y reportes en comunicacin clara, visual y accionable.
+Propuesta de narrativa basada en datos para Business Intelligence, orientada a transformar dashboards y reportes en comunicación clara, visual y accionable.
 
-**Competencias aplicadas:** visin de producto, roadmap, historias de usuario, estimacin, priorizacin, visualizacin de datos y KPI de predictibilidad, calidad y valor de negocio.
+**Competencias aplicadas:** visión de producto, roadmap, historias de usuario, estimación, priorización, visualizacin de datos y KPI de predictibilidad, calidad y valor de negocio.
 
 [Ver caso de estudio completo →](case-studies/modulo-6-agile-delivery-suite/README.md)
 
