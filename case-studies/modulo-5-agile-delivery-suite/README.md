@@ -72,11 +72,11 @@ Kanban se usa para gestionar soporte, incidencias y pequeñas solicitudes del á
 - **Pendiente:** sin límite, porque solo refleja entrada de trabajo.
 - **En progreso:** máximo 2 tarjetas, para evitar multitarea y acumulación.
 - **Revisión:** máximo 1 tarjeta, porque suele ser un cuello de botella.
-- **Hecho:** sin lmite.
+- **Hecho:** sin límite.
 
 ### Justificacin de los lmites
 
-Los lmites WIP ayudan a mejorar el foco, reducir el multitasking y hacer visibles los bloqueos. Cuando una columna se llena, el equipo se ve obligado a terminar antes de empezar más trabajo, lo que mejora el flujo y reduce el lead time.
+Los límites WIP ayudan a mejorar el foco, reducir el multitasking y hacer visibles los bloqueos. Cuando una columna se llena, el equipo se ve obligado a terminar antes de empezar más trabajo, lo que mejora el flujo y reduce el lead time.
 
 ### Métricas Kanban
 
@@ -90,7 +90,7 @@ Los lmites WIP ayudan a mejorar el foco, reducir el multitasking y hacer visible
 
 ### Cuello de botella y mejora
 
-Si la columna **Revisin** acumula tarjetas, el cuello de botella está en la validacin. La mejora propuesta es limitar aún más el WIP en esa etapa, revisar el flujo de aprobacin y hacer pruebas más tempranas para evitar que el trabajo se detenga al final.
+Si la columna **Revisión** acumula tarjetas, el cuello de botella está en la validación. La mejora propuesta es limitar aún más el WIP en esa etapa, revisar el flujo de aprobación y hacer pruebas más tempranas para evitar que el trabajo se detenga al final.
 
 ## Scrum
 
@@ -100,7 +100,7 @@ Scrum se usa para el desarrollo de la funcionalidad principal de Agile Delivery 
 
 - **Product Owner:** prioriza el backlog y maximiza el valor del producto.
 - **Scrum Master:** facilita el proceso y elimina impedimentos.
-- **Development Team:** construye incrementos "Done" con calidad tcnica.
+- **Development Team:** construye incrementos "Done" con calidad técnica.
 
 ### Product Backlog priorizado
 
