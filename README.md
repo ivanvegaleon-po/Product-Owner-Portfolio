@@ -1,6 +1,6 @@
 # Product Owner Portfolio
 
-Portafolio de proyectos desarrollados durante mi formación y certificación como Product Owner. Documenta la aplicación de análisis de problemas, transformación digital, visión de producto, propuesta de valor, stakeholders, priorizaron, métricas y mejora continua.
+Portafolio de proyectos desarrollados durante mi formación y certificación como Product Owner.
 
 ## Casos de estudio
 
@@ -36,6 +36,14 @@ Propuesta de una plataforma interna para Tech4You que combina Scrum para el desa
 
 [Ver caso de estudio completo →](case-studies/modulo-5-agile-delivery-suite/README.md)
 
+### Módulo 6 — Agile Delivery Suite: Narrativa basada en datos
+
+Propuesta de narrativa basada en datos para Business Intelligence, orientada a transformar dashboards y reportes en comunicacin clara, visual y accionable.
+
+**Competencias aplicadas:** visin de producto, roadmap, historias de usuario, estimacin, priorizacin, visualizacin de datos y KPI de predictibilidad, calidad y valor de negocio.
+
+[Ver caso de estudio completo →](case-studies/modulo-6-agile-delivery-suite/README.md)
+
 ## Prximamente
 
-Este portafolio se actualizar con los casos de estudio correspondientes a los mdulos 6 y 7 de la certificacin.
+Este portafolio se actualizar con el caso de estudio correspondiente al mdulo 7 de la certificacin.
