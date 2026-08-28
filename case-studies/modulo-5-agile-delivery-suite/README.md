@@ -8,7 +8,7 @@ Agile Delivery Suite es una propuesta de plataforma interna para centralizar sol
 
 La Dirección de Innovacin de Tech4You necesita mejorar la visibilidad del trabajo, reducir retrasos y coordinar mejor las tareas del equipo. El proceso actual dispersa solicitudes, funcionalidades pequeñas e incidencias, lo que genera poca claridad sobre prioridades, avances y bloqueos.
 
-## Solucin
+## Solución
 
 Se propone un flujo ágil integrado que use:
 
