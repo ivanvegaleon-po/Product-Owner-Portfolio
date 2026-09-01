@@ -20,25 +20,25 @@ Propuesta Lean Startup de microclases virtuales para preparar snacks saludables 
 
 [Ver caso de estudio completo →](case-studies/modulo-3-snackxpress/README.md)
 
-### Módulo 4 — Viaticos Flow: Rediseo de viaticos corporativos
+### Módulo 4 — Viaticos Flow: Rediseño de viaticos corporativos
 
-Caso de Service Design y Design Thinking para simplificar la solicitud y aprobacin de viaticos. La propuesta reemplaza planillas y correos dispersos por un flujo digital claro, trazable y orientado a reducir errores e incertidumbre.
+Caso de Service Design y Design Thinking para simplificar la solicitud y aprobación de viaticos. La propuesta reemplaza planillas y correos dispersos por un flujo digital claro, trazable y orientado a reducir errores e incertidumbre.
 
-**Competencias aplicadas:** Service Blueprint, investigacin de usuarios, mapa de empata, definicin de problema, ideacin, matriz impacto-esfuerzo, prototipado, pruebas de usabilidad e iteracin basada en feedback.
+**Competencias aplicadas:** Service Blueprint, investigación de usuarios, mapa de empatía, definición de problema, ideación, matriz impacto-esfuerzo, prototipado, pruebas de usabilidad e iteración basada en feedback.
 
 [Ver caso de estudio completo →](case-studies/modulo-4-viaticos-flow/README.md)
 
-### Módulo 5 — Agile Delivery Suite: Gestin agil del trabajo
+### Módulo 5 — Agile Delivery Suite: Gestión agil del trabajo
 
-Propuesta de una plataforma interna para Tech4You que combina Scrum para el desarrollo y Kanban para soporte, utilizando Jira como herramienta central. El caso demuestra la aplicacin de backlog, historias de usuario, estimacin, Sprint, mtricas, lmites WIP, Definition of Done y mejora continua.
+Propuesta de una plataforma interna para Tech4You que combina Scrum para el desarrollo y Kanban para soporte, utilizando Jira como herramienta central. El caso demuestra la aplicación de backlog, historias de usuario, estimación, Sprint, métricas, límites WIP, Definition of Done y mejora continua.
 
-**Competencias aplicadas:** Scrum, Kanban, Jira, gestin de backlog, priorizaron, Story Points, Velocity, Lead Time, Cycle Time, CFD y mejora continua.
+**Competencias aplicadas:** Scrum, Kanban, Jira, gestión de backlog, priorización, Story Points, Velocity, Lead Time, Cycle Time, CFD y mejora continua.
 
 [Ver caso de estudio completo →](case-studies/modulo-5-agile-delivery-suite/README.md)
 
 ### Módulo 6 — Agile Delivery Suite: Narrativa basada en datos
 
-Propuesta de narrativa basada en datos para Business Intelligence, orientada a transformar dashboards y reportes en comunicacin clara, visual y accionable.
+Propuesta de narrativa basada en datos para Business Intelligence, orientada a transformar dashboards y reportes en comunicación clara, visual y accionable.
 
 **Competencias aplicadas:** visin de producto, roadmap, historias de usuario, estimacin, priorizacin, visualizacin de datos y KPI de predictibilidad, calidad y valor de negocio.
 
